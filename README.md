@@ -1,19 +1,13 @@
-# imaproy
+## imaproy
 
-A new Flutter application.
+Segundo reto del Curso de Platzi de Flutter.
 
-## Getting Started
+## Cosas Aprendidas
 
-This project is a starting point for a Flutter application.
+- Insertar iconos
+- Insertar imagenes de fondo
+- Insertar un contenedor con el color alpha
+- El orden de los widgets uno dentro de el otro
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-
-# Screen
+## Screen
 ![Veremos](https://raw.githubusercontent.com/maumedmac/imaproy/master/assets/Image.jpeg)
